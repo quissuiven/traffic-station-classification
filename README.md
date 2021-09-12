@@ -33,12 +33,11 @@ https://www.kaggle.com/jboysen/us-traffic-2015
   ipython kernel install --name venv --user
   ```
   
-5. Start jupyter environment
+6. Start jupyter environment
 
   ```
   jupyter lab
   ```
-
-
+7. Select virtual environment venv as kernel and open traffic-station-classification.ipynb
     
   
