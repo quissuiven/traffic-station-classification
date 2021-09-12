@@ -8,24 +8,25 @@ https://www.kaggle.com/jboysen/us-traffic-2015
 
 1. Clone this repository on your local
 
-  `git clone https://github.com/quissuiven/traffic_station_classification.git `
+  `git clone https://github.com/quissuiven/traffic-station-classification.git `
 
-2. Navigate to  traffic_station_classification folder and install virtual environment
-
+2. Navigate to  traffic-station-classification folder and install virtual environment
   ```
-  cd traffic_station_classification
+  cd traffic-station-classification
   pip install virtualenv
   virtualenv venv
   source venv/bin/activate
   ```
+
+3. Download [US Traffic 2015 dataset](https://www.kaggle.com/jboysen/us-traffic-2015) into folder
  
-3. Install packages based on requirements.txt
+4. Install packages based on requirements.txt
 
   ```
   pip install -r requirements.txt
   ```
   
-4. Install jupyter and add virtual environment as kernel
+5. Install jupyter and add virtual environment as kernel
 
   ```
   pip install jupyter
