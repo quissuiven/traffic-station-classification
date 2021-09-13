@@ -41,8 +41,8 @@ More details can be found in traffic-station-classification.ipynb.
 6. Start jupyter environment
 
   ```
-  jupyter lab
+  jupyter notebook
   ```
-7. Select virtual environment venv as kernel and open traffic-station-classification.ipynb
+7. Open traffic-station-classification.ipynb and select virtual environment venv as kernel
     
   
